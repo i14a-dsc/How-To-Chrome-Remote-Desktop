@@ -66,11 +66,11 @@
 
 ## まずアプリをダウンロードします。
 
-> *Chrome Remote Desktop for Android:
+> Chrome Remote Desktop for Android:
 > <https://play.google.com/store/apps/details?id=com.google.chromeremotedesktop&hl=ja&gl=US>
 > 
 > for iOS:
-> <https://apps.apple.com/jp/app/chrome-%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88-%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/id944025852>*
+> <https://apps.apple.com/jp/app/chrome-%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88-%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/id944025852>
 > 
 > Amazon アプリストアにはありません。
 
